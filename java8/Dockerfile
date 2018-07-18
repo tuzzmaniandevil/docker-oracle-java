@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-ENV JAV8_VERSION=8u171-1~webupd8~0
+ENV JAV8_VERSION=8u181-1~webupd8~1
 
 # Install Java.
 RUN \
